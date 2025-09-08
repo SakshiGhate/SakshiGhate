@@ -2,11 +2,12 @@
 # Hi there, I'm Sakshi Ghate! 👋  
 
 ## 👨‍💻 About Me  
+🎓 **MCA Graduate | IBM Certified Data Analyst**
 - 📊 **Data Analyst** passionate about transforming raw data into actionable insights.  
 - 💼 **Working With:** MS Excel, SQL (MySQL & PostgreSQL), Power BI, Python (NumPy, Pandas, Matplotlib).  
 - 💡 **Data Enthusiast** exploring new techniques in visualization and analysis.   
-- 🤝 **Networker**: Loves connecting with professionals on LinkedIn.  
-
+- 🔎 Passionate about **data-driven problem solving** and continuous learning
+  
 ---
 
 ## 🛠️ Technical Toolkit  
